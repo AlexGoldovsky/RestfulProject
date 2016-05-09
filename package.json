@@ -1,0 +1,15 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "Sample project app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+  	"express":"4.13.4",
+  	"body-parser":"1.15.1",
+  	"mongoose":"4.4.15"
+  },
+  "author": "Alex Goldovsky"
+}
